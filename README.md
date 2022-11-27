@@ -1,7 +1,6 @@
-# check my projects ig
+# shitcode mainly
 
-shitcode mainly
-
+check my projects 🔫
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=betterclient&theme=dark&show_icons=true)
 
