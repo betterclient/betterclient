@@ -1,6 +1,6 @@
 # shitcode mainly
 
-check my projects 🔫
+Check out ![Ascend Client](https://github.com/Ascend-Client/Ascend-Client)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=betterclient&theme=dark&show_icons=true)
 
