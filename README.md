@@ -1,6 +1,8 @@
 # Betterclient
 Hello I am BetterClient
 
+![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=590&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
+
 ## My projects
 - [Ascend Client](https://github.com/Ascend-Client/Ascend-Client)
 - [SnapTap](https://github.com/betterclient/SnapTapMC)
